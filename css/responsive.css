@@ -367,8 +367,6 @@
         background-color: #fff;
         transition: .5s;
         overflow: hidden;
-
-        pointer-events: none;
     }
 
     .nav-bar ul {
